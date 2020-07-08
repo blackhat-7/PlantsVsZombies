@@ -4,7 +4,6 @@
     <JAVADOC />
     <SOURCES>
       <root url="file://$USER_HOME$/Downloads/jfxtras-labs-9.0/jfxtras-labs-9.0/src/main/java" />
-      <root url="file://$USER_HOME$/Downloads/jfxtras-labs-9.0/jfxtras-labs-9.0/src/test/java" />
     </SOURCES>
   </library>
 </component>
